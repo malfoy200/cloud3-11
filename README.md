@@ -1,6 +1,6 @@
 # cloud3-11
 
-# ECS Fargate simple creation 13Nov2023 w SeanLim
+# ECS Fargate simple creation 13Nov2023 w Sean
 
 
 ### What is ECS? 
